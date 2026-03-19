@@ -34,10 +34,6 @@ Bash script that automatically sets up a full development environment on openSUS
 Installs Python, C++, Docker, Arduino IDE, VSCode and all needed extensions in one command.  
 → [View Repository](https://github.com/safwan-dev/opensuse-dev-setup)
 
-### 🔌 Arduino + ESP32 Button Display
-Connected an Arduino R4 and ESP32 via MQTT and Home Assistant.  
-The Arduino detects a button press and sends the signal to the ESP32, which displays the status on a screen in real time.
-
 ---
 
 ## 🎓 Education
