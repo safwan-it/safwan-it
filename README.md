@@ -32,7 +32,7 @@ I love building things that combine software and hardware together.
 ### 🖥️ opensuse-dev-setup
 Bash script that automatically sets up a full development environment on openSUSE.  
 Installs Python, C++, Docker, Arduino IDE, VSCode and all needed extensions in one command.  
-→ [View Repository](https://github.com/safwan-dev/opensuse-dev-setup)
+→ [View Repository](https://github.com/safwan-it/opensuse-dev-setup)
 
 ---
 
