@@ -51,7 +51,7 @@ Fachhochschulreife & IT-Assistent · Focus: Python, C/C++, Databases, Math
 
 ![Safwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safwan-dev&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safwan-dev&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NAME&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook)
 
 ---
 
