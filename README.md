@@ -50,10 +50,8 @@ Fachhochschulreife & IT-Assistent · Focus: Python, C/C++, Databases, Math
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safwan-it&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook)
 ---
 
-## 📫 Contact
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Safwanasif0009@gmail.com)
 
 ---
-
-*Currently learning more about home automation, virtualisation and embedded systems.*
