@@ -1,11 +1,11 @@
-# Hi, I'm Safwan 👋
+# Hi, I'm Safwan 
 
 I'm a 17 year old IT student from Germany with a passion for Linux, hardware and automation.  
 I love building things that combine software and hardware together.
 
 ---
 
-## 🛠️ What I work with
+## What I work with
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -27,23 +27,23 @@ I love building things that combine software and hardware together.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🖥️ opensuse-dev-setup
+### opensuse-dev-setup
 Bash script that automatically sets up a full development environment on openSUSE.  
 Installs Python, C++, Docker, Arduino IDE, VSCode and all needed extensions in one command.  
 → [View Repository](https://github.com/safwan-it/opensuse-dev-setup)
 
 ---
 
-## 🎓 Education
+## Education
 
 **Höhere Berufsfachschule für Informatik (HBFIT), Mainz** – 2025 to 2027  
 Fachhochschulreife & IT-Assistent · Focus: Python, C/C++, Databases, Math
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Safwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safwan-it&show_icons=true&theme=tokyonight&hide_border=true)
 
